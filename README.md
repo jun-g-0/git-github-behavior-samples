@@ -1,2 +1,2 @@
 # git-github-behavior-samples
-Github上におけるGitやGithubが容易する、ブランチのマージなどの挙動に関するテストを行うリポジトリ
+Github上におけるGitやGithubが容易する、ブランチのマージなどの挙動に関する例示を行うリポジトリ
