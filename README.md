@@ -3,11 +3,10 @@ Github上におけるGitやGithubが容易する、ブランチのマージな�
 
 # 例示した挙動の一覧
 
-## "squash and merge"
-仮説:
+## "Squash and merge"
+
+Issue: https://github.com/jun-g-0/git-github-behavior-samples/issues/2
 - 使用時: TrunkにはPRをMergeしたcommitのみ残る
 - 未使用時: 子branchのcommitが残る上、Merge commitも追加される
-その他: MergeされるPRが多くなるとき、commit logの可読性向上に資する
 
-検証結果: 追記予定
-検証箇所: 追記予定
+用途: MergeされるPRが多くなるとき、commit logの可読性向上に資する
